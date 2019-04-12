@@ -12,6 +12,8 @@ Try to use the most indicated tag element to create a semantic HTML. This way, y
 
 You can search for HTML Basics on [MDN](https://developer.mozilla.org/en-US/) to learn the basics, or access [here](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) to see the html basics in MDN page.
 
+Or you can go to the "Introduction to Basic HTML & HTML5" in [freecodecamp](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5).
+
 ## Writing Semantic HTML
 
 You can search for Semantic HTML or HTML5 on [MDN](https://developer.mozilla.org/en-US/) to learn how to write semantic HTML, or access [here](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) to see the semantics topics and [here](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) to see the html5 page.
