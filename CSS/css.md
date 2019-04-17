@@ -70,6 +70,8 @@ This explanation is from [freecodecamp](https://learn.freecodecamp.org/responsiv
 
 ### Floats
 
+Floating elements are removed from the normal flow of a document and pushed to either the `left` or `right` of their containing parent element. It's commonly used with the `width` property to specify how much horizontal space the floated element requires.
+
 ### Display
 
 ### Box Model
